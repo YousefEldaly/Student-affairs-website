@@ -40,7 +40,6 @@ a home page.
 * **Yousef Magdy Eldaly** - [YousefEldaly](https://github.com/YousefEldaly)  
 * **Yousef Karam** - [callmejoee](https://github.com/callmejoee)  
 * **Noor Hatem** - [noorshehab](https://github.com/noorshehab)
-* **Belal Ahmed Eid** - [beboDbale](https://github.com/beboDbale)  
-* **Zeyad Ehab El Naggar** - [Zeyad-ElNaggar](https://github.com/Zeyad-ElNaggar)
+* **Belal Ahmed Eid** - [beboDbale](https://github.com/beboDbale)
 
 
